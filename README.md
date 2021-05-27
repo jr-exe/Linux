@@ -1,2 +1,2 @@
 # Linux
-## Main quests about OS *nix
+## Main questions about OS *nix
